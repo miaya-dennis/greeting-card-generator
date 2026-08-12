@@ -10,5 +10,4 @@ function makeCard(){
 }
 
   makeCard();
- setInterval(makeCard, 2000);
- makeCard();
+  makeCard();
