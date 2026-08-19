@@ -1,7 +1,7 @@
 let name = prompt("A name:");
 let adjective = prompt("An adjective:");
 let noun = prompt("A noun:");
-let style = prompt("Fancy or silly?");
+let style = prompt("fancy or silly?");
 
 let closings = [
 
